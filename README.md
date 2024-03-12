@@ -1,4 +1,4 @@
 # Demo
 
-Rada, rada
+Rada
 Noma sana githee
